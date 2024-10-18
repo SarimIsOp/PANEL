@@ -1,0 +1,12 @@
+Instance
+account
+
+admin:
+overview
+settings
+	settings:
+	smpt
+	theme
+user
+images
+apikeys
